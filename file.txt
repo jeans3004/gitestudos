@@ -1,1 +1,2 @@
 Meu primeiro arquivo Git
+Nova linha adicionada ao arquivo file.txt
